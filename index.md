@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Chance the Chances Bot!
 
-You can use the [editor on GitHub](https://github.com/Reiningecho90/chances-discord-bot-public/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## DOWNLOAD NOW!!
+[Link button](https://discord.com/api/oauth2/authorize?client_id=892217333613993995&permissions=0&scope=bot){: .btn .btn-green }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to the Website!
 
-### Markdown
+This is the official website for Chances the Chances Bot! You can find all of the necessary information on the bot here. Visit the help section to learn hwo the bot works, or see the developer list at the bottom for more info on the collaborators!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Help! What do I do here?
 
-```markdown
-Syntax highlighted code block
+It looks like youve discovered the bot, now its time to learn how to use it.
 
-# Header 1
-## Header 2
-### Header 3
+The first step is to setup the bot, if you don't need to know how to set it up, or you got it setup for you skip to step 3.
 
-- Bulleted
-- List
+### 1. Setting up the bot:
 
-1. Numbered
-2. List
+#### First Time Setup (Server Owners)
+The first steps are setting up the bot. This will get Chance running on your server. Use the button above to
 
-**Bold** and _Italic_ and `Code` text
+1. The first step is acquiring the bot. You can use the button above to access the OAuth2 link. You can add the bot to any server via the dropdown menu.
 
-[Link](url) and ![Image](src)
-```
+3. Once you have the bot on your server create a channel with this name (note this is indeed case sensitive so you need to copy paster the name): 'chance's-guessing-game'
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+4. Once that is created run a few commands to see if it started!
 
-### Jekyll Themes
+#### Looking for the Commands?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Reiningecho90/chances-discord-bot-public/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. 
