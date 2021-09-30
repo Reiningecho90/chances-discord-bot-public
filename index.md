@@ -1,7 +1,6 @@
 # Chance the Chances Bot!
 
-## DOWNLOAD NOW!!
-[Link button](https://discord.com/api/oauth2/authorize?client_id=892217333613993995&permissions=0&scope=bot){: .btn .btn-green }
+[Download Here!](https://discord.com/api/oauth2/authorize?client_id=892217333613993995&permissions=0&scope=bot/){: .btn .btn-green }
 
 ## Welcome to the Website!
 
@@ -26,4 +25,6 @@ The first steps are setting up the bot. This will get Chance running on your ser
 
 #### Looking for the Commands?
 
-1. 
+Triggering the bot using ':chances {number}' will return the bot's thinking!
+
+Using the ':help' command will show you a link to this page, where you can learn about the bot! 
