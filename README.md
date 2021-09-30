@@ -1,10 +1,10 @@
 # chances-discord-bot-public
 A discord bot that plays the 'what are the chances' game with the user! The bot is going online soon on various servers and will expand soon.
 
+## v0.1
+The initial version of the discord bot
+
 Updates:
 
-- Started the repository, setting it up today (9/28/2021)
-- Added v0.1 branch for first version (9/28/2021)
-- Added issue templates (9/28/2021)
-- Added first issue on embed links (9/28/2021)
-- Added Wiki, updates will come tomorrow as well as other repo updates (9/28/2021)
+Added readme file to this version and added version description (9/28/2021)
+Replaced token which was not redacted on initial upload, everything is fine now, new token was created and will be generated every push (9/28/2021)
