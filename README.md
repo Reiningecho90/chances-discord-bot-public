@@ -8,3 +8,5 @@ Updates:
 - Added issue templates (9/28/2021)
 - Added first issue on embed links (9/28/2021)
 - Added Wiki, updates will come tomorrow as well as other repo updates (9/28/2021)
+- Closed embed issue (10/2/2021)
+- v0.2 released 9/30 (10/2/2021)
