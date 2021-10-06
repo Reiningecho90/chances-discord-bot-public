@@ -11,3 +11,4 @@ Updates:
 - Closed embed issue (10/2/2021)
 - v0.2 released 9/30 (10/2/2021)
 - Working on analytics and tracking for bot, information under issues tab (10/3/2021)
+- Expansion into more servers is being worked on (10/6/2021)
