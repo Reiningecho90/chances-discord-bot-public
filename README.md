@@ -3,7 +3,7 @@ A discord bot that plays the 'what are the chances' game with the user! The bot 
 
 NOTE THAT THIS BRANCH DOES NOT INCLUDE THE SERVER SIDE FILES NEEDED TO HOST
 
-## v0.1
+## v0.2
 The initial version of the discord bot
 
 Updates:
