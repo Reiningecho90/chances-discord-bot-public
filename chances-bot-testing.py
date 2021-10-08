@@ -6,7 +6,7 @@ from discord import colour
 from discord.embeds import Embed
 
 # Bot setup information
-bot_token = "ODkyMjE3MzMzNjEzOTkzOTk1.YVJsJA.vaIJ8u4USOZN7XFrA5GAcEcikhE"
+bot_token = "REDACTED"
 
 client = discord.Client()
 
