@@ -5,3 +5,4 @@ Updates:
 - Ourged to Update-Archive.txt (10/6/2021)
 - Expansion into more servers is being worked on (10/6/2021)
 - Added v0.2 branch to comply with the update, new features being added soon (10/7/2021)
+- Updates security file (10/7/2021)
