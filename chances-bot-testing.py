@@ -6,7 +6,7 @@ import time as t
 import datetime
 
 # Bot setup information
-bot_token = "ODkyMjE3MzMzNjEzOTkzOTk1.YVJsJA.kiE2On9pEjbGDsY3g6_PGjEYdP4"
+bot_token = "REDACTED"
 
 client = discord.Client()
 
