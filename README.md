@@ -7,3 +7,4 @@ Updates:
 - Added v0.2 branch to comply with the update, new features being added soon (10/7/2021)
 - Updates security file (10/7/2021)
 - Updated security file to include new version released today (10/8/2021)
+- Closed issue on bot tracking as version 1 is implemented (10/8/2021)
