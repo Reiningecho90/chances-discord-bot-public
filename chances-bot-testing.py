@@ -2,14 +2,16 @@
 import discord
 import random
 from discord import colour
-
-from discord.embeds import Embed
+import time as t
+import datetime
 
 # Bot setup information
-bot_token = "REDACTED"
+bot_token = "ODkyMjE3MzMzNjEzOTkzOTk1.YVJsJA.kiE2On9pEjbGDsY3g6_PGjEYdP4"
 
 client = discord.Client()
 
+# information day to day
+daily_data = ['--DAILY DATA LIST--']
 
 # Bot events
 @client.event # report bot online in terminal
@@ -19,13 +21,10 @@ async def on_ready():
 @client.event # messages for output (true/false boolean outcome messages)
 async def on_message(message):
 
-    print(message.channel)
-
     if str(message.channel) == 'chances-guessing-game':
         try:
             content = message.content
             if ':chances' in message.content:
-                print('here')
 
                 author = str(message.author.id)            
                 usr_arg = content.lstrip(':chances ')
@@ -37,14 +36,22 @@ async def on_message(message):
                     f'<@{author}> you seemed to have picked the wrong number this time, not my fault youre not a pro gamer :sunglasses: I picked {comp_num} and you picked {usr_arg}!',
                     f'Welp <@{author}> it wasn\'t the same number. Not poggers.  I picked {comp_num} and you picked {usr_arg}!',
                     f'0/10, would not reccomend picking that number next time <@{author}>.  I picked {comp_num} and you picked {usr_arg}!',
-                    f'Hey, <@{author}>, we didn\'t get the same number this time, maybe again?  I picked {comp_num} and you picked {usr_arg}!'
+                    f'Hey, <@{author}>, we didn\'t get the same number this time, maybe again?  I picked {comp_num} and you picked {usr_arg}!',
+                    f'Well it looks like that\'s another failure <@{author}>. YOu should seek counseling if you are sad.  I picked {comp_num} and you picked {usr_arg}!',
+                    f'Welp <@{author}> it looks like that\'s another failure for the books!  I picked {comp_num} and you picked {usr_arg}!',
+                    f'Not the same number <@{author}>, all your base are belong to us. (If oyu are uncultured see this link: https://knowyourmeme.com/memes/all-your-base-are-belong-to-us)   I picked {comp_num} and you picked {usr_arg}!',
+                    f'No luck <@{author}>. Step away from the keyboard and no one gets addicted.  I picked {comp_num} and you picked {usr_arg}!'
                 )
 
                 success_lst = (
                     f'Hey, <@{author}>...the numbers were equal! I picked {comp_num} and you picked {usr_arg}!',
                     f'Well, <@{author}> it looks like we got the same number! I picked {comp_num} and you picked {usr_arg}!',
                     f'<@{author}> we got the same number, is this good or bad?  I picked {comp_num} and you picked {usr_arg}!',
-                    f'Guess what <@{author}>? we got the same number!  I picked {comp_num} and you picked {usr_arg}!'
+                    f'Guess what <@{author}>? we got the same number!  I picked {comp_num} and you picked {usr_arg}!',
+                    f'This is a sucess story, <@{author}>! Thanks for the data! :person_running: :dash:  I picked {comp_num} and you picked {usr_arg}!',
+                    f'Hey, <@{author}>! you won! Wait, what?...I thought you were supposed to bring the trophies!?  I picked {comp_num} and you picked {usr_arg}!',
+                    f'Won you have, <@{author}>, tried you have not. Yet sucess you have achieved.  I picked {comp_num} and you picked {usr_arg}!',
+                    f'Hey, <@{author}> you did it! Now do hoemwork and battle that gambling addiction of yours!  I picked {comp_num} and you picked {usr_arg}!'
                 )
 
 
@@ -61,6 +68,15 @@ async def on_message(message):
 
                     await message.channel.send(embed = match_embed)
 
+                    time = datetime.datetime.now()
+                    daily_data.append(f'{message.author.id}: {time}, {str(message.content)}, \n')
+                    print('data added to list')
+
+                    if t.strftime("%H") == '23':
+                        print(t.strftime('%H'))
+                        print(daily_data)
+
+
                 else:
 
                     fail_embed = discord.Embed(
@@ -71,6 +87,14 @@ async def on_message(message):
 
                     await message.channel.send(embed = fail_embed)
 
+                    time = datetime.datetime.now()
+                    daily_data.append(f'{message.author.id}: {time}, {str(message.content)}, \n')
+                    print('data added to list')
+
+                    if t.strftime("%H") == '23':
+                        print(t.strftime('%H'))
+                        print(daily_data)
+                
             if content == ':help':
 
                 help_embed = discord.Embed(
@@ -81,11 +105,20 @@ async def on_message(message):
 
                 await message.channel.send(embed = help_embed)
 
+                time = datetime.datetime.now()
+                daily_data.append(f'{message.author.id}: {time}, {str(message.content)}, \n')
+                print('data added to list')
+
+                if t.strftime("%H") == '23':
+                    print(t.strftime('%H'))
+                    print(daily_data)
+
             
         except ValueError:
 
             print(f"{author} attempted to run command with {usr_arg} as argument.")
-                
+
+
 
 # run client
 client.run(bot_token)
