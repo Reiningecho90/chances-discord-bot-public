@@ -2,6 +2,11 @@
 
 [Download Here!](https://discord.com/api/oauth2/authorize?client_id=892217333613993995&permissions=0&scope=bot){: .btn-green }
 
+## Versioning Information
+
+Current Version v0.4
+Security Included: Yes
+
 ## Welcome to the Website!
 
 This is the official website for Chances the Chances Bot! You can find all of the necessary information on the bot here. Visit the help section to learn hwo the bot works, or see the developer list at the bottom for more info on the collaborators!
