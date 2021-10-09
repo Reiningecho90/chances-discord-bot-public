@@ -8,3 +8,4 @@ Updates:
 - Updates security file (10/7/2021)
 - Updated security file to include new version released today (10/8/2021)
 - Closed issue on bot tracking as version 1 is implemented (10/8/2021)
+- Updating github pages to include current version (10/8/2021)
