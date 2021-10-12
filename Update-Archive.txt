@@ -8,3 +8,10 @@ Update Archive:
 - Closed embed issue (10/2/2021)
 - v0.2 released 9/30 (10/2/2021)
 - Working on analytics and tracking for bot, information under issues tab (10/3/2021)
+
+- Expansion into more servers is being worked on (10/6/2021)
+- Added v0.2 branch to comply with the update, new features being added soon (10/7/2021)
+- Updates security file (10/7/2021)
+- Updated security file to include new version released today (10/8/2021)
+- Closed issue on bot tracking as version 1 is implemented (10/8/2021)
+- Updating github pages to include current version (10/8/2021)
