@@ -9,3 +9,4 @@ Updates:
 - Updated security file to include new version released today (10/8/2021)
 - Closed issue on bot tracking as version 1 is implemented (10/8/2021)
 - Updating github pages to include current version (10/8/2021)
+- Added new issue about data commands, first log didn't go as planned and that will be documented (10/12/2021)
