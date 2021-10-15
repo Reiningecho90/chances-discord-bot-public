@@ -4,3 +4,4 @@ A discord bot that plays the 'what are the chances' game with the user! The bot 
 Updates:
 - Purged to Update-Archive.txt (10/12/2021)
 - Added new issue about data commands, first log didn't go as planned and that will be documented (10/12/2021)
+- Data commands work is underway and should be released soon (10/14/2021)
