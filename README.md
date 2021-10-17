@@ -7,3 +7,4 @@ Updates:
 - Data commands work is underway and should be released soon (10/14/2021)
 - New code shouod be posted soon, testing phase is also going to be undertaken soon (10/15/2021)
 - Data code should be finished, the issue will be closed once program is tested properly (10/15/2021)
+- Fixed server copy paste in GitHub pages index (10/17/2021)
