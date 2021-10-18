@@ -11,3 +11,4 @@ Updates:
 - Final version before first public release will go live soon after working on some features (10/17/2021)
 - Leaderboard will not be implemented and will instead have a call option that tells the user it doesn't matter because its chance based (10/17/2021)
 - Pushed new version as promised, all commands will be updated on the github pages (10/17/2021)
+- New github pages rolled out with new command and new info all around (10/17/2021)
