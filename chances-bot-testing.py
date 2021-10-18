@@ -131,7 +131,8 @@ while 1:
 
                     lead_embed = discord.Embed(
                         title = 'Leaderboard_Not_Found',
-                        description = '''Leaderboards don\t count in this kind of game. I do have some hororable mentions though...
+                        description = 
+                        '''Leaderboards don\'t count in this kind of game. I do have some hororable mentions though...
                         
                         1. EnderPearlMandy (BFF+Asked me nicely and is kinda a god...)
                         2. Jasper! (First public server the bot got into's owner!)''',
