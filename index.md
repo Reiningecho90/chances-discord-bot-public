@@ -33,3 +33,5 @@ The first steps are setting up the bot. This will get Chance running on your ser
 Triggering the bot using ':chances {number}' will return the bot's thinking!
 
 Using the ':help' command will show you a link to this page, where you can learn about the bot! 
+
+One of the useless ones is the ':leaderboard' command, but try it out!
