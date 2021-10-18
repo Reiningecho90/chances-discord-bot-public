@@ -8,3 +8,5 @@ Updates:
 - New code shouod be posted soon, testing phase is also going to be undertaken soon (10/15/2021)
 - Data code should be finished, the issue will be closed once program is tested properly (10/15/2021)
 - Fixed server copy paste in GitHub pages index (10/17/2021)
+- Final version before first public release will go live soon after working on some features (10/17/2021)
+- Leaderboard will not be implemented and will instead have a call option that tells the user it doesn't matter because its chance based (10/17/2021)
