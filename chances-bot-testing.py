@@ -13,7 +13,7 @@ client = discord.Client()
 
 # information day to day
 daily_data = ['--DAILY DATA LIST--']
-server_channel_lst = ['chances-guessing-game', 'chances-bot', 'what-are-the-chaces', 'guessing-bot']
+server_channel_lst = ['chances-guessing-game', 'chances-bot', 'what-are-the-chances', 'guessing-bot']
 
 reset_time = 3
 false_time = 4
