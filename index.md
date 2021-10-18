@@ -13,7 +13,7 @@ This is the official website for Chances the Chances Bot! You can find all of th
 
 ## Help! What do I do here?
 
-It looks like youve discovered the bot, now its time to learn how to use it.
+It looks like you've discovered the bot, now its time to learn how to use it.
 
 The first step is to setup the bot, if you don't need to know how to set it up, or you got it setup for you skip to step 3.
 
@@ -24,7 +24,7 @@ The first steps are setting up the bot. This will get Chance running on your ser
 
 1. The first step is acquiring the bot. You can use the button above to access the OAuth2 link. You can add the bot to any server via the dropdown menu.
 
-3. Once you have the bot on your server create a channel with this name (note this is indeed case sensitive so you need to copy paster the name): 'chances-guessing-game'
+3. Once you have the bot on your server create a channel with one of these names (note this is indeed case sensitive so you need to copy paste your favorite name): 'chances-guessing-game', 'chances-bot', 'what-are-the-chaces', 'guessing-bot'
 
 4. Once that is created run a few commands to see if it started!
 
