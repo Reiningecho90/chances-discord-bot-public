@@ -4,7 +4,7 @@
 
 ## Versioning Information
 
-Current Version v0.4
+Current Version v0.5
 Security Included: Yes
 
 ## Welcome to the Website!
