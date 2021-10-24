@@ -5,6 +5,7 @@ import random
 from discord import colour
 import time as t
 import datetime
+from discord.ext import tasks
 
 # Bot setup information
 bot_token = "REDACTED"
@@ -13,37 +14,21 @@ client = discord.Client()
 
 # information day to day
 daily_data = ['--DAILY DATA LIST--']
-server_channel_lst = ['chances-guessing-game', 'chances-bot', 'what-are-the-chances', 'guessing-bot']
-
-reset_time = 3
-false_time = 4
-log_for_day = False
+server_channel_lst = ['chances-guessing-game', 'chances-bot', 'what-are-the-chaces', 'guessing-bot']
+target_channel_id = 898757086161293332
 
 while 1:
-
-    if t.strftime("%H") == reset_time and log_for_day == False:
-        print(t.strftime('%H'))
-        print(daily_data)
-
-        log_channel_id = client.get_channel(898757086161293332)
-
-        log_channel_id.send(f'{daily_data}')
-
-        log_for_day = True
-
-    if t.strftime("%H") == false_time and log_for_day == True:
-        log_channel_id = client.get_channel(898757086161293332)
-
-        log_channel_id.send(f'{daily_data}')
-
-        log_for_day = False
-
-        
-
     # Bot events
     @client.event # report bot online in terminal
     async def on_ready():
         print("Bot is online") 
+    
+    @tasks.loop(hours=24)
+    async def called_once_a_day():
+        message_channel = client.get_channel(target_channel_id)
+        print(f"Got channel {message_channel}")
+
+        await message_channel.send(f"{daily_data}")
 
     @client.event # messages for output (true/false boolean outcome messages)
     async def on_message(message):
