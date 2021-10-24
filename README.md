@@ -7,3 +7,4 @@ Updates:
 - Purged to Update-Archive.txt (10/20/2021)
 - Data issue may have been found, more info will be posted on the issue later (10/20/2021)
 - Issues updated in the issues tab, one taken away and comment added to data issue (10/20/2021)
+- Added new solution for data scoring, testing over the next 24 hours to see if it functions properly (10/23/2021)
