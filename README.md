@@ -2,6 +2,7 @@
 A discord bot that plays the 'what are the chances' game with the user! The bot is going online soon on various servers and will expand soon.
 
 Current Verizon: v0.5
+Approaching version: v1.0
 
 Updates:
 - Purged to Update-Archive.txt (10/20/2021)
@@ -14,3 +15,4 @@ Updates:
 - Updated issue on data bugs, working on a new idea for v1 (10/24/2021)
 - Removed issue on data bugs, new issue will be added regarding a new feature (10/25/2021)
 - New issue regarding event posted (10/25/2021)
+- All code form today has been updated under v0.5 (10/25/2021)
