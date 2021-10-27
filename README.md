@@ -9,4 +9,5 @@ Updates:
 - Purged to Update-Archive.txt (10/26/2021)
 - Jupyter notebook has been created to get information on several parts of the bot, code will be posted in a new branch soon (10/26/2021)
 - Work on new battle mode is going to start tomorrow after logs are done (10/26/2021)
+- New code committewd to v0.5 branch (10/27/2021)
 
