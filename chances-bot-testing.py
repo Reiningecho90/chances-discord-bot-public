@@ -6,7 +6,7 @@ import time as t
 import datetime
 
 # Bot setup information
-bot_token = "REDACTED"
+bot_token = 'REDACTED'
 
 client = discord.Client()
 
@@ -71,7 +71,7 @@ async def on_message(message):
                     await message.channel.send(embed = match_embed)
 
                     time = datetime.datetime.now()
-                    message_channel = client.get_channel(902034661113475082)
+                    message_channel = client.get_channel('REDACTED')
                     print(f"Got channel {message_channel}")
                     await message_channel.send(f'{message.author.id}, {time}, {str(message.content)};')
 
@@ -86,7 +86,7 @@ async def on_message(message):
                     await message.channel.send(embed = fail_embed)
 
                     time = datetime.datetime.now()
-                    message_channel = client.get_channel(902034661113475082)
+                    message_channel = client.get_channel('REDACTED')
                     print(f"Got channel {message_channel}")
                     await message_channel.send(f'{message.author.id}, {time}, {str(message.content)};')
                 
@@ -101,7 +101,7 @@ async def on_message(message):
                 await message.channel.send(embed = help_embed)
 
                 time = datetime.datetime.now()
-                message_channel = client.get_channel(902034661113475082)
+                message_channel = client.get_channel('REDACTED')
                 print(f"Got channel {message_channel}")
                 await message_channel.send(f'{message.author.id}, {time}, {str(message.content)};')
 
@@ -120,7 +120,7 @@ async def on_message(message):
                 await message.channel.send(embed = lead_embed)
 
                 time = datetime.datetime.now()
-                message_channel = client.get_channel(REDACTED)
+                message_channel = client.get_channel('REDACTED')
                 print(f"Got channel {message_channel}")
                 await message_channel.send(f'{message.author.id}, {time}, {str(message.content)};')
 
@@ -136,3 +136,15 @@ async def on_message(message):
 
 # run client and timed script
 client.run(bot_token)
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
