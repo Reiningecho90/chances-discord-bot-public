@@ -4,7 +4,7 @@
 
 ## Versioning Information
 
-Current Version v0.5
+Current Version v1.0
 Security Included: Yes
 
 ## Welcome to the Website!
@@ -35,3 +35,5 @@ Triggering the bot using ':chances {number}' will return the bot's thinking!
 Using the ':help' command will show you a link to this page, where you can learn about the bot! 
 
 One of the useless ones is the ':leaderboard' command, but try it out!
+
+Try out the ':battlestart' and ':guess' commands! These are the new mode included with v1.0! The guess command takes one number (your guess) and the battle start command takes a range of numbers (first) and a chosen number to guess (second)!
