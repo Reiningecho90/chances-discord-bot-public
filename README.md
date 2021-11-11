@@ -13,4 +13,4 @@ Updates:
 - Updated issue on battle mode, code will be posted once tested (10/27/2021)
 - Fixing a few bugs in new code before pushing to a new version and testingin server (10/28/2021)
 - Working in new feature, new code should be implemented soon. Development was slowed due to some programming issues and having a busy schedule (11/6/2021)
-- New branch is live, working on getting everything up for the release today
+- New branch is live, working on getting everything up for the release today (11/10/2021)
