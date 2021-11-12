@@ -15,3 +15,4 @@ Updates:
 - Working in new feature, new code should be implemented soon. Development was slowed due to some programming issues and having a busy schedule (11/6/2021)
 - New branch is live, working on getting everything up for the release today (11/10/2021)
 - Contemplating a patch notes idea, as well as timed rollouts (11/10/2021)
+- Working on final fixes for version before it is presented on our discord server found here: https://discord.gg/gR9JgxtZ! (11/11/2021)
