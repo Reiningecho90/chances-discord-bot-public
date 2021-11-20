@@ -1,6 +1,6 @@
 # Chance the Chances Bot!
 
-[Download Here!]https://discord.com/oauth2/authorize?client_id=892217333613993995&permissions=137640733776&scope=bot){: .btn-green }
+[Download Here!](https://discord.com/oauth2/authorize?client_id=892217333613993995&permissions=137640733776&scope=bot){: .btn-green }
 
 ## Versioning Information
 
