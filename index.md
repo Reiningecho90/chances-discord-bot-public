@@ -24,7 +24,7 @@ The first steps are setting up the bot. This will get Chance running on your ser
 
 1. The first step is acquiring the bot. You can use the button above to access the OAuth2 link. You can add the bot to any server via the dropdown menu.
 
-3. Once you have the bot on your server create a channel with one of these names (note this is indeed case sensitive so you need to copy paste your favorite name): 'chances-guessing-game', 'chances-bot', 'what-are-the-chaces', 'guessing-bot'
+3. Once you have the bot on your server create a channel with one of these names (note this is indeed case sensitive so you need to copy paste your favorite name): 'chances-guessing-game', 'chances-bot', 'what-are-the-chaces', 'guessing-bot', 'bot-commands'
 
 4. Once that is created run a few commands to see if it started!
 
