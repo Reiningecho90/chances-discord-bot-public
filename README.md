@@ -11,3 +11,4 @@ Updates:
 - Pushed a new version of the permissions to the discord database, this fixes the issue which was added yesterday (11/17/2021)
 - New link added to gh-pages branch (11/17/2021)
 - Fixed gh-pages link (11/20/2021)
+- Updated gh-pages information to comply with v1.0 public release today (11/21/2021)
