@@ -12,3 +12,4 @@ Updates:
 - New link added to gh-pages branch (11/17/2021)
 - Fixed gh-pages link (11/20/2021)
 - Updated gh-pages information to comply with v1.0 public release today (11/21/2021)
+- Added issues for v1.1, updated everything on frontend for v1.0 release just now (11/21/2021)
