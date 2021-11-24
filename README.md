@@ -13,4 +13,4 @@ Updates:
 - Fixed gh-pages link (11/20/2021)
 - Updated gh-pages information to comply with v1.0 public release today (11/21/2021)
 - Added issues for v1.1, updated everything on frontend for v1.0 release just now (11/21/2021)
-- Work on teh v1.1 holiday release is coming along nicely, one week to go until it drops (11/24/2021)
+- Work on the v1.1 holiday release is coming along nicely, one week to go until it drops (11/24/2021)
