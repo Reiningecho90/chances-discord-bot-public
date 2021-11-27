@@ -15,3 +15,4 @@ Updates:
 - Added issues for v1.1, updated everything on frontend for v1.0 release just now (11/21/2021)
 - Work on the v1.1 holiday release is coming along nicely, one week to go until it drops (11/24/2021)
 - Finished work on holiday release, should go live on Wed. Dec. 1st (11/27/2021)
+- Closed off issues for v1.1, everything is in place and testing updates will come soon.
