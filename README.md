@@ -7,3 +7,4 @@ Approaching version: v1.1
 
 Updates:
 - Purged to Update-Archive.txt (11/18/2021)
+- Updated security file to include soon mark for v1.1 (11/28/2021)
