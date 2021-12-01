@@ -1,10 +1,10 @@
 # Chance the Chances Bot!
 
-[Download Here!](https://discord.com/oauth2/authorize?client_id=892217333613993995&permissions=137640733776&scope=bot){: .btn-green }
+[Download v1.1 Here!](https://discord.com/oauth2/authorize?client_id=892217333613993995&permissions=137640733776&scope=bot){: .btn-green }
 
 ## Versioning Information
 
-Current Version v1.0
+Current Version v1.1
 Security Included: Yes
 
 ## Welcome to the Website!
