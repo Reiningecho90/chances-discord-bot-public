@@ -1,0 +1,1 @@
+worker: python chances_bot_december.py
