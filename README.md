@@ -12,3 +12,4 @@ Updates:
 - Added new issue for security, new Python version should be rolled out with v1.2 (12/6/2021)
 - Conducted a small unit test on 3.10.0 and all files still work, pushing code wiht that version with v1.2 (12/6/2021)
 - Closed issues on code and evrsion changes (12/7/2021)
+- Updated all local code folders with new code, everything is ready for push on code side as of right now. New chanegs might come soon (12/7/2021)
