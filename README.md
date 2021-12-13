@@ -14,3 +14,4 @@ Updates:
 - Closed issues on code and evrsion changes (12/7/2021)
 - Updated all local code folders with new code, everything is ready for push on code side as of right now. New chanegs might come soon (12/7/2021)
 - Working on the icon to finish up existing issues, more feature requests are coming soon (12/8/2021)
+- Opened new issue on code changes (12/13/2021)
