@@ -8,3 +8,4 @@ Approaching version: v1.2
 Updates:
 - Purged to Update-Archive.txt (12/15/2021)
 - Updated issue on code file and responses (12/15/2021)
+- Brainstorming for the next update has begun. Some features will be updated, info to come with v1.2 rollout and v1.3 development starting (12/15/2021)
