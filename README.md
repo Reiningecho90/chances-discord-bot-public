@@ -16,3 +16,4 @@ Updates:
 - Working on the icon to finish up existing issues, more feature requests are coming soon (12/8/2021)
 - Opened new issue on code changes (12/13/2021)
 - Finished the logo for v1.2, see issue #12 for more info (12/13/2021)
+- Working on a new data capture system that will improve data output (12/15/2021)
