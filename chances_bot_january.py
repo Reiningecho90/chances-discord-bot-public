@@ -6,7 +6,7 @@ import time as t
 import datetime
 
 # Bot setup information
-bot_token = "ODkyMjE3MzMzNjEzOTkzOTk1.YVJsJA.N3_gGvgnDKf9bff3i5jQXnlarYo"
+bot_token = "ODkyMjE3MzMzNjEzOTkzOTk1.YVJsJA.gouet3J3jMP0hRwW5hrB7myYMKg"
 
 client = discord.Client()
 
@@ -23,7 +23,7 @@ async def on_ready():
 @client.event # messages for output (true/false boolean outcome messages)
 async def on_message(message):
 
-    if str(message.channel) in server_channel_lst:
+    if str(message.channel) in server_channel_lst or 'bot' in str(message.channel):
         content = message.content
         try:
 
