@@ -13,3 +13,4 @@ Updates:
 - Created new milestone for v1.3 (1/2/2021)
 - Added issue for new leaderboard function and preview date (1/3/2021)
 - Fixed all version display issues to convert to v1.2 (1/3/2021)
+- Fixed an unknown bug, everything is in place, public code updates soon (1/5/2021)
