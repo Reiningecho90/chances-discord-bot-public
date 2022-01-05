@@ -6,7 +6,7 @@ import time as t
 import datetime
 
 # Bot setup information
-bot_token = "ODkyMjE3MzMzNjEzOTkzOTk1.YVJsJA.gouet3J3jMP0hRwW5hrB7myYMKg"
+bot_token = "REDACTED"
 
 client = discord.Client()
 
@@ -80,7 +80,7 @@ async def on_message(message):
                     await message.channel.send(embed = match_embed)
 
                     time = datetime.datetime.now()
-                    message_channel = client.get_channel(902034661113475082)
+                    message_channel = client.get_channel('REDACTED')
                     print(f"Got channel {message_channel}")
                     await message_channel.send(f'{message.author.id}, {time}, {str(message.content)};')
 
@@ -95,7 +95,7 @@ async def on_message(message):
                     await message.channel.send(embed = fail_embed)
 
                     time = datetime.datetime.now()
-                    message_channel = client.get_channel(902034661113475082)
+                    message_channel = client.get_channel('REDACTED')
                     print(f"Got channel {message_channel}")
                     await message_channel.send(f'{message.author.id}, {time}, {str(message.content)};')
                 
@@ -110,7 +110,7 @@ async def on_message(message):
                 await message.channel.send(embed = help_embed)
 
                 time = datetime.datetime.now()
-                message_channel = client.get_channel(902034661113475082)
+                message_channel = client.get_channel('REDACTED')
                 print(f"Got channel {message_channel}")
                 await message_channel.send(f'{message.author.id}, {time}, {str(message.content)};')
 
@@ -129,7 +129,7 @@ async def on_message(message):
                 await message.channel.send(embed = lead_embed)
 
                 time = datetime.datetime.now()
-                message_channel = client.get_channel(902034661113475082)
+                message_channel = client.get_channel('REDACTED')
                 print(f"Got channel {message_channel}")
                 await message_channel.send(f'{message.author.id}, {time}, {str(message.content)};')
 
