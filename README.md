@@ -14,3 +14,4 @@ Updates:
 - Added issue for new leaderboard function and preview date (1/3/2021)
 - Fixed all version display issues to convert to v1.2 (1/3/2021)
 - Fixed an unknown bug, everything is in place, public code updates soon (1/5/2021)
+- Working on leaderboard, updates may come to the open issue (1/6/2021)
