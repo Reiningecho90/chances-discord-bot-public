@@ -16,3 +16,4 @@ Updates:
 - Fixed an unknown bug, everything is in place, public code updates soon (1/5/2021)
 - Working on leaderboard, updates may come to the open issue (1/6/2021)
 - Public code updated from yesterday (1/6/2021)
+- Added new issue on possible semi-update (see #18)
