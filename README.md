@@ -17,3 +17,4 @@ Updates:
 - Working on leaderboard, updates may come to the open issue (1/6/2021)
 - Public code updated from yesterday (1/6/2021)
 - Added new issue on possible semi-update (see #18)
+- Poll for update looking positive, a new issue will be created with more information once everything is sorted (1/7/2021)
