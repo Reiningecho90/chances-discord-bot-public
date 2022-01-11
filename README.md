@@ -6,15 +6,5 @@ Current Verizon: v1.2
 Approaching version: v1.3
 
 Updates:
-- Purged to Update-Archive.txt (12/15/2021)
-- Updated issue on code file and responses (12/15/2021)
-- Brainstorming for the next update has begun. Some features will be updated, info to come with v1.2 rollout and v1.3 development starting (12/15/2021)
-- Everything is ready for release, repo will be inactive due to holidays (12/20/2021)
-- Created new milestone for v1.3 (1/2/2021)
-- Added issue for new leaderboard function and preview date (1/3/2021)
-- Fixed all version display issues to convert to v1.2 (1/3/2021)
-- Fixed an unknown bug, everything is in place, public code updates soon (1/5/2021)
-- Working on leaderboard, updates may come to the open issue (1/6/2021)
-- Public code updated from yesterday (1/6/2021)
-- Added new issue on possible semi-update (see #18)
-- Poll for update looking positive, a new issue will be created with more information once everything is sorted (1/7/2021)
+- Purged to Update-Archive.txt (1/10/2021)
+- Parts for a dedicated server are being acquired, bot will be server hosted in 4.5 months is all goes to plan (1/10/2021)
