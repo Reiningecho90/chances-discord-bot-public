@@ -12,3 +12,4 @@ Updates:
 - New issue created for dedicated server release (1/10/2021)
 - New milestones created for server release and Valentines Day update (1/10/2021)
 - Beginning to roll changes made for v1.3 onto other month's files (1/11/2021)
+- Added more information onto dedicated server release issue, all files have gotten the 'v1' leaderboard changes at this point (1/11/2021)
