@@ -17,3 +17,5 @@ Updates:
 - Work on the Feb. code file is finished, Valentine's Day code file will begin work tomorrow (1/18/2021)
 - Testing for the server will begin tomorrow (1/19/2021)
 - Updates issues to contain newest data, see #17, #19, and #20 (1/19/2021)
+- Updates to security file for v1.3 and v1.3.1 are added as of last week (1/19/2021)
+- Updates to code for Valentine's day are mostly finished (1/19/2021)
