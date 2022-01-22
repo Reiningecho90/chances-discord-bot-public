@@ -90,3 +90,17 @@ Update Archive:
 - Public code updated from yesterday (1/6/2021)
 - Added new issue on possible semi-update (see #18)
 - Poll for update looking positive, a new issue will be created with more information once everything is sorted (1/7/2021)
+
+Parts for a dedicated server are being acquired, bot will be server hosted in 4.5 months is all goes to plan (1/10/2022)
+- Created new issue on Valentines day update (1/1/2022)
+- New issue created for dedicated server release (1/10/2021)
+- New milestones created for server release and Valentines Day update (1/10/2021)
+- Beginning to roll changes made for v1.3 onto other month's files (1/11/2021)
+- Added more information onto dedicated server release issue, all files have gotten the 'v1' leaderboard changes at this point (1/11/2021)
+- After some while the server is built and testing can start soon, updates soon (1/18/2021)
+- Work on the Feb. code file is finished, Valentine's Day code file will begin work tomorrow (1/18/2021)
+- Testing for the server will begin tomorrow (1/19/2021)
+- Updates issues to contain newest data, see #17, #19, and #20 (1/19/2021)
+- Updates to security file for v1.3 and v1.3.1 are added as of last week (1/19/2021)
+- Updates to code for Valentine's day are mostly finished (1/19/2021)
+
