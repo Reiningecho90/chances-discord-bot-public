@@ -9,4 +9,5 @@ Updates:
 - Purged to Update-Archive.txt (1/21/2022)
 - All updates are ready for roll-out on their respective dates (1/21/2021)
 - Work in Feb. will be server focused for a possible early roll-out if viable (1/21/2021)
-- Server is going through a week-long testing period this week, next week it will begin another running a simulated version of the code (1/24/2021)
+- Server is going through a week-long testing period this week, next week it will begin another, running a simulated version of the code (1/24/2021)
+- Further testing will take place this week as the codespace will get set up while tests are running (1/24/2021)
