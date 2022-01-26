@@ -14,4 +14,5 @@ Updates:
 - A bug has been spotted in the v1.3 code, it will go through testing soon to make sure everything works (1/25/2021)
 - Progress report on bug, during unit tests the bug was not squashed, it will be fixed before release of version (1/25/2021)
 - Issue raised, bug shoyuld be fixed by the end of the week as testing will go through then (1/25/2021)
-- Discord is currently experiencing an API outage, edits and testing are currently at a halt, mroe info on update release soon (1/26/2021)
+- Discord is currently experiencing an API outage, edits and testing are currently at a halt, more info on update release soon (1/26/2021)
+- Discord API is back up and fixinf the bug is back in session (1/26/2021)
