@@ -13,3 +13,4 @@ Updates:
 - Further testing will take place this week as the codespace will get set up while tests are running (1/24/2021)
 - A bug has been spotted in the v1.3 code, it will go through testing soon to make sure everything works (1/25/2021)
 - Progress report on bug, during unit tests the bug was not squashed, it will be fixed before release of version (1/25/2021)
+- Issue raised, bug shoyuld be fixed by the end of the week as testing will go through then (1/25/2021)
