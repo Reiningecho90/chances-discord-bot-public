@@ -19,3 +19,4 @@ Updates:
 - Discord HTTP issues limit the eladerboard function as it would be created. The function will be postponed until the dedicated release and everything will be reverted to its past state (1/26/2022)
 - All code is being edited and code has been rolled back after today's testing (1/26/2022)
 - Everything is reverted and back to normal, all updates from here forward are going to be on smaller updates or the server if no issues arise (1/26/2022)
+- Testing is going well, all code should be finished by next week and ready to be out on the server for the next test (1/27/2021)
