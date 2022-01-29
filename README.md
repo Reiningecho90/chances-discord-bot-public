@@ -9,4 +9,5 @@ Updates:
 - Purged to Update-Archive.txt (1/29/2022)
 - This week's testing round numbers are in, average temp on PCI adapter was -2.5C and alt PCI adapter was 0.0C (1/29/2022)
 - Updates issue on dedicated release for the next step of testing round 1 (1/29/2022)
+- Everything is in place except actual code file for the testing round on the dedicated server, this will begin tomorrow (1/29/2021)
 
