@@ -13,4 +13,4 @@ Updates:
 - Everything is now in place for the test starting tomorrow, the file is on the server and ready to be run. All debugging of the file will also happen tomorrow as it may be common to do on the server (1/29/2022)
 - Testing timesheet has next test scheduled for a start on Tuesday, today end the first test of round one, the timesheet will be posted later today (1/31/2021)
 - Timesheet for testing posted, you can now see all of the testing periods (1/31/2021)
-
+- Bot release parried has begun, new version is releasing today (2/1/2022)
