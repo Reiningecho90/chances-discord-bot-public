@@ -17,6 +17,7 @@ Updates:
 - New code has been released, new fastest release time (2/1/2022)
 - Total downtime was 0 minutes, no downtime was recorded (2/1/2022)
 - Patch notes were released to the discord, changes to this page coming soon (2/1/2022)
+- Code is running a test on the server now (2/1/2022)
 
 
 ## Images
