@@ -18,7 +18,8 @@ Updates:
 - Total downtime was 0 minutes, no downtime was recorded (2/1/2022)
 - Patch notes were released to the discord, changes to this page coming soon (2/1/2022)
 - Code is running a test on the server now (2/1/2022)
-
+- Test is going well one day in (2/2/2022)
+- New code is running after one day as well (2/2/2022)
 
 ## Images
 
