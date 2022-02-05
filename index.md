@@ -1,10 +1,10 @@
 # Chance the Chances Bot!
 
-[Download v1.1 Here!](https://discord.com/oauth2/authorize?client_id=892217333613993995&permissions=137640733776&scope=bot){: .btn-green }
+[Download v1.3 Here!](https://discord.com/oauth2/authorize?client_id=892217333613993995&permissions=137640733776&scope=bot){: .btn-green }
 
 ## Versioning Information
 
-Current Version v1.1
+Current Version v1.3
 Security Included: Yes
 
 ## Welcome to the Website!
@@ -36,4 +36,8 @@ Using the ':help' command will show you a link to this page, where you can learn
 
 One of the useless ones is the ':leaderboard' command, but try it out!
 
-Try out the ':battlestart' and ':guess' commands! These are the new mode included with v1.0! The guess command takes one number (your guess) and the battle start command takes a range of numbers (first) and a chosen number to guess (second)!
+Try out the ':battlestart' and ':guess' commands! This is the new mode included with v1.0! The guess command takes one number (your guess) and the battle start command takes a range of numbers (first) and a chosen number to guess (second)!
+
+Example of starting a battle: ':battlestart 50 5'
+Example of guessing wrong in a battle ':guess 45'
+Example of ending a battle: ':guess 50'
