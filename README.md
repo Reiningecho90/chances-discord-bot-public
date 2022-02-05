@@ -9,6 +9,7 @@ Updates:
 - Purged to Update-Archive.txt (2/5/2022)
 - Test has been running for all of this week, temps will be released at end of test (2/5/2022)
 - Added new issue to address the ':battlestart' comamnd which was attempted by a user without input numbers (2/5/2022)
+- Updates gh-pages branch in response to new issue rising (2/5/2022)
 
 
 ## Images
