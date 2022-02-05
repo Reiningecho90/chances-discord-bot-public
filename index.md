@@ -40,4 +40,4 @@ Try out the ':battlestart' and ':guess' commands! This is the new mode included 
 
 Example of starting a battle: ':battlestart 50 5'
 Example of guessing wrong in a battle ':guess 45'
-Example of ending a battle: ':guess 50'
+Example of ending a battle: ':guess 5'
