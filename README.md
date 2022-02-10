@@ -11,6 +11,7 @@ Updates:
 - Added new issue to address the ':battlestart' comamnd which was attempted by a user without input numbers (2/5/2022)
 - Updates gh-pages branch in response to new issue rising (2/5/2022)
 - Fixed profile picture not appearing (2/5/2022)
+- One day late diagnostics: test completed successfully at same temps (avg. 0.0C and -3C on graphics adapters through lm-sensors) (2/9/2022)
 
 
 ## Images
