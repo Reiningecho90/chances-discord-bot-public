@@ -13,6 +13,7 @@ Updates:
 - Fixed profile picture not appearing (2/5/2022)
 - One day late diagnostics: test completed successfully at same temps (avg. 0.0C and -3C on graphics adapters through lm-sensors) (2/9/2022)
 - Next test started yesterday on schedule, the test is now running real code and the server test bot is online (2/10/2022)
+- Closed :battlestart command issue (2/10/2022)
 
 
 ## Images
