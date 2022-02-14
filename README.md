@@ -1,9 +1,9 @@
 # chances-discord-bot-public
 A discord bot that plays the 'what are the chances' game with the user! The bot is going online soon on various servers and will expand soon.
 
-Current Verizon: v1.3
+Current Verizon: v1.3.1
 
-Approaching version: v1.3.1
+Approaching version: v1.4
 
 Updates:
 - Purged to Update-Archive.txt (2/5/2022)
@@ -17,6 +17,7 @@ Updates:
 - Created branch for v1.3.1 (2/13/2022)
 - Python 3.10.2 will be used for this and future releases as well to improve security (2/13/2022)
 - Released new versiona nd pushed to heroku for deploy (2/13/2022)
+- Fixed all information to new versioning (2/13/2022)
 
 
 ## Images
