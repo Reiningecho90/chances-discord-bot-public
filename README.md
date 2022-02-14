@@ -18,6 +18,7 @@ Updates:
 - Python 3.10.2 will be used for this and future releases as well to improve security (2/13/2022)
 - Released new versiona nd pushed to heroku for deploy (2/13/2022)
 - Fixed all information to new versioning (2/13/2022)
+- Fixed one issue with :battlestart exception handling, link was not working due to a non-spaced exclamation point (2/13/2022)
 
 
 ## Images
