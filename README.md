@@ -16,6 +16,7 @@ Updates:
 - Closed :battlestart command issue (2/10/2022)
 - Created branch for v1.3.1 (2/13/2022)
 - Python 3.10.2 will be used for this and future releases as well to improve security (2/13/2022)
+- Released new versiona nd pushed to heroku for deploy (2/13/2022)
 
 
 ## Images
