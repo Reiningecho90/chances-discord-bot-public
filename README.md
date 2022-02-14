@@ -1,2 +1,14 @@
 # chances-discord-bot-public
+
+A discord bot that plays the 'what are the chances' game with the user! The bot is going online soon on various servers and will expand soon.
+
+NOTE THAT THIS BRANCH DOES NOT INCLUDE THE SERVER SIDE FILES NEEDED TO HOST
+
+## v1.3.1
+Valentines day release!
+
+Updates:
+
+- Added readme file to this version and added version description (2/1/2021)
+- Created new branch for v1.3
 Public repository for the Chances Discord Bot.
