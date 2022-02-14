@@ -8,6 +8,7 @@ Approaching version: v1.4
 Updates:
 - Purged to Update-Archive.txt (2/5/2022)
 - Fixed another bug, the color lib. was not used properly for the win case (2/14/2022)
+- 10PM EST is the reversion time today, everything shoudl go smoothly as the code is tested (2/14/2022)
 
 
 
