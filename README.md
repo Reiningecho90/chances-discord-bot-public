@@ -19,6 +19,7 @@ Updates:
 - Released new versiona nd pushed to heroku for deploy (2/13/2022)
 - Fixed all information to new versioning (2/13/2022)
 - Fixed one issue with :battlestart exception handling, link was not working due to a non-spaced exclamation point (2/13/2022)
+- Fixed one grammer issue with new version, everything is resolved (2/13/2022)
 
 
 ## Images
