@@ -7,19 +7,8 @@ Approaching version: v1.4
 
 Updates:
 - Purged to Update-Archive.txt (2/5/2022)
-- Test has been running for all of this week, temps will be released at end of test (2/5/2022)
-- Added new issue to address the ':battlestart' comamnd which was attempted by a user without input numbers (2/5/2022)
-- Updates gh-pages branch in response to new issue rising (2/5/2022)
-- Fixed profile picture not appearing (2/5/2022)
-- One day late diagnostics: test completed successfully at same temps (avg. 0.0C and -3C on graphics adapters through lm-sensors) (2/9/2022)
-- Next test started yesterday on schedule, the test is now running real code and the server test bot is online (2/10/2022)
-- Closed :battlestart command issue (2/10/2022)
-- Created branch for v1.3.1 (2/13/2022)
-- Python 3.10.2 will be used for this and future releases as well to improve security (2/13/2022)
-- Released new versiona nd pushed to heroku for deploy (2/13/2022)
-- Fixed all information to new versioning (2/13/2022)
-- Fixed one issue with :battlestart exception handling, link was not working due to a non-spaced exclamation point (2/13/2022)
-- Fixed one grammer issue with new version, everything is resolved (2/13/2022)
+- Fixed another bug, the color lib. was not used properly for the win case (2/14/2022)
+
 
 
 ## Images
