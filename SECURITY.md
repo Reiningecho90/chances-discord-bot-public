@@ -15,7 +15,7 @@
 | 1.1.0   | :white_check_mark: |
 | 1.2.0   | :white_check_mark: |
 | 1.3.0   | :white_check_mark: |
-| 1.3.1   | :soon: |
+| 1.3.1   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
