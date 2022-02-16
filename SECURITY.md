@@ -12,8 +12,8 @@
 | 0.4.0   | :white_check_mark: | N |
 | 0.5.0   | :white_check_mark: | N |
 | 1.0.0   | :white_check_mark: | N |
-| 1.1.0   | :white_check_mark: | N |
-| 1.2.0   | :white_check_mark: | N |
+| 1.1.0   | :white_check_mark: | Y |
+| 1.2.0   | :white_check_mark: | Y |
 | 1.3.0   | :white_check_mark: | N |
 | 1.3.1   | :white_check_mark: | Y |
 
