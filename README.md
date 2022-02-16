@@ -10,6 +10,7 @@ Updates:
 - Fixed another bug, the color lib. was not used properly for the win case (2/14/2022)
 - 10PM EST is the reversion time today, everything shoudl go smoothly as the code is tested (2/14/2022)
 - Everything was successfully redeployed yesterday (2/15/2022)
+- Stress test is moving along well so far, everything was responding as normal and utilization was low during load (2/15/2022)
 
 
 
