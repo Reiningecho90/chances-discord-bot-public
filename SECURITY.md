@@ -4,18 +4,18 @@
 
 ## Supported Versions
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 0.1.0   | :white_check_mark: |
-| 0.2.0   | :white_check_mark: |
-| 0.3.0   | :white_check_mark: |
-| 0.4.0   | :white_check_mark: |
-| 0.5.0   | :white_check_mark: |
-| 1.0.0   | :white_check_mark: |
-| 1.1.0   | :white_check_mark: |
-| 1.2.0   | :white_check_mark: |
-| 1.3.0   | :white_check_mark: |
-| 1.3.1   | :white_check_mark: |
+| Version | Supported          |  |
+| ------- | ------------------ |  |
+| 0.1.0   | :white_check_mark: |  |
+| 0.2.0   | :white_check_mark: |  |
+| 0.3.0   | :white_check_mark: |  |
+| 0.4.0   | :white_check_mark: |  |
+| 0.5.0   | :white_check_mark: |  |
+| 1.0.0   | :white_check_mark: |  |
+| 1.1.0   | :white_check_mark: |  |
+| 1.2.0   | :white_check_mark: |  |
+| 1.3.0   | :white_check_mark: |  |
+| 1.3.1   | :white_check_mark: | SPECIALIZED |
 
 ## Reporting a Vulnerability
 
