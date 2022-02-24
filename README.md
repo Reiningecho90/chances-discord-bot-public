@@ -1,7 +1,7 @@
 # chances-discord-bot-public
 A discord bot that plays the 'what are the chances' game with the user! The bot is going online soon on various servers and will expand soon.
 
-Current Verizon: v1.3.1
+Current Verizon: v1.3
 
 Approaching version: v1.4
 
@@ -13,7 +13,7 @@ Updates:
 - Stress test is moving along well so far, everything was responding as normal and utilization was low during load (2/15/2022)
 - Added column to security file to mark as specialized release (2/15/2022)
 - Updated issue on dedicated release to include above info on test (2/15/2022)
-- Nect week of server testing went well, as usual average temps will be released later in the test (2/23/2022)
+- Next week of server testing went well, as usual average temps will be released later in the test (2/23/2022)
 
 ## Images
 
