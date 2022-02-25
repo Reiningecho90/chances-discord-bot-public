@@ -15,6 +15,7 @@ Updates:
 - Updated issue on dedicated release to include above info on test (2/15/2022)
 - Next week of server testing went well, as usual average temps will be released later in the test (2/23/2022)
 - Due to recent events there will be a significant update in March to the bot (2/24/2022)
+- Theme is in place for update, no extra responses will be added for this (2/24/2022)
 
 ## Images
 
