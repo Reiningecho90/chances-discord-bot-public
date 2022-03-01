@@ -17,6 +17,7 @@ Updates:
 - Due to recent events there will be a significant update in March to the bot (2/24/2022)
 - Theme is in place for update, no extra responses will be added for this (2/24/2022)
 - Working out one issue with the serevr release and everything will be ready for the semi-public test in March (2/24/2022)
+- New bot version releasing in minutes (3/1/2022)
 
 ## Images
 
