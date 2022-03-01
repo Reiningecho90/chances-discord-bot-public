@@ -18,6 +18,7 @@ Updates:
 - Theme is in place for update, no extra responses will be added for this (2/24/2022)
 - Working out one issue with the serevr release and everything will be ready for the semi-public test in March (2/24/2022)
 - New bot version releasing in minutes (3/1/2022)
+- New release started, setting everything up and publishing release notes later (3/1/2022)
 
 ## Images
 
