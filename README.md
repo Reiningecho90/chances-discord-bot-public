@@ -6,11 +6,11 @@ Current Verizon: v1.4u
 Approaching version: v1.5
 
 Updates:
-- Purged to Update-Archive.txt (2/5/2022)=
+- Purged to Update-Archive.txt (2/5/2022)
 - New bot version releasing in minutes (3/1/2022)
 - New release started, setting everything up and publishing release notes later (3/1/2022)
 - Release complete and patch notes are out, everything is complete apart from gh-pages (3/1/2022)
-- Everythin gis completed and bot is working as planned (3/1/2022)
+- Everything is completed and bot is working as planned (3/1/2022)
 
 ## Images
 
