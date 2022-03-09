@@ -13,6 +13,7 @@ Updates:
 - Everything is completed and bot is working as planned (3/1/2022)
 - Extensive updates coming soon as I get back into the swing of the bot, everything will be backend work to prepare for the server release (3/7/2022)
 - Discovered issue in csv file handling, working through it (3/8/2022)
+- Created issue on csv handling, this issue will be updated son as this week goes on (3/8/2022)
 
 ## Images
 
